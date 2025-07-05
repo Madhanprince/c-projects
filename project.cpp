@@ -4,3 +4,4 @@ git push -u origin main
 madhan
 hi helo i m from college sns colony
 
+linon .mini=ror
