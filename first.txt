@@ -1,4 +1,4 @@
 git remote add origin https://github.com/Madhanprince/c-projects.git
 git branch -M main
 git push -u origin mai
-i am working roots i happy for joining in it
+hi i am in india my religion in hindu
