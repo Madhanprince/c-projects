@@ -28,7 +28,7 @@ int main() {
     string name ;
     getline(cin, name);
 
-    vector<string> msg = split(input);
+    vector<string> msg = split(name);
 
     cout << "Enter a separator: ";
     string separator;
