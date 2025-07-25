@@ -25,8 +25,8 @@ vector<string> split(const string& str) {
 
 int main() {
     cout << "Enter your message (words separated by spaces): ";
-    string input;
-    getline(cin, input);
+    string name ;
+    getline(cin, name);
 
     vector<string> msg = split(input);
 
