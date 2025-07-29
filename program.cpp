@@ -25,10 +25,10 @@ vector<string> split(const string& str) {
 
 int main() {
     cout << "Enter your message (words separated by spaces): ";
-    string name ;
-    getline(cin, name);
+    string input ;
+    getline(cin, input);
 
-    vector<string> msg = split(name);
+    vector<string> msg = split(input);
 
     cout << "Enter a separator: ";
     string separator;
@@ -37,5 +37,5 @@ int main() {
     cout << "Your formatted message:\n";
     printMessage(msg, separator);
 
-    return 0;
+    return 1;
 }
